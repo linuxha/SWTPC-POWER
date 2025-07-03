@@ -17,7 +17,7 @@ I planned to use up to 3 ICL7662 but for my SWTPC 6800 only one was necessary
 when the SWTPC 6800 was up and running it was drawing roughly 1.5A on 8V
 
 the XL4005 LP2596 module I've chosen are normally able to produce up to 5A  (according to Aliexpress vendor)
-[https://fr.aliexpress.com/item/32828277416.html]
+[XL4005 LP2596 module](https://fr.aliexpress.com/item/32828277416.html) (French)
 
 the ICL7662 datasheet is in this directory with other files
 
@@ -44,7 +44,9 @@ then I built an adaptor between this connector
 and the SWTPC connector so the SWTPC was not modified
 
 the power supply I'm using:
-https://www.amazon.fr/DTK-Adaptateur-SyncMaster-dalimentation-Alimentation/dp/B07VL3M8M1/
+[DTK Laptop Power Supply Charger 19.5V 6.15A 120W](https://www.amazon.fr/DTK-Adaptateur-SyncMaster-dalimentation-Alimentation/dp/B07VL3M8M1/) (Connector: 5.5 x 2.5mm)
+
+[DTK Laptop Power Supply Charger 19.5V 6.15A 120W](https://www.amazon.com/XL4005-DSN5000-Adjustable-Step-Down-Current/dp/B0DGQHQ74B) (2025-07-02)
 
 PAY ATTENTION that this power supply can power one of Peripheraltech SWTPC using very compact memory board
 BUT WILL NEVER BE ABLE TO POWER A REAL SWTPC USING A LOT OF MEMORY BOARDS
